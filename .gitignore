@@ -1,0 +1,11 @@
+/.vs
+/.vscode
+/x64
+/Release
+/Debug
+
+/loader/x64
+/payload/x64
+/unpacker/x64
+
+*.exe
